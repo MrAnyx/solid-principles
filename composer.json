@@ -1,0 +1,9 @@
+{
+    "name": "robin/solid-principles",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
