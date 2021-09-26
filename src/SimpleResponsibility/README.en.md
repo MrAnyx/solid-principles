@@ -15,4 +15,4 @@ Thus, by applying this principle, it will be much easier, as a developer, to :
 - Reuse classes and functions,
 - Test the classes and functions, because there will be fewer cases to consider.
 
-*Author : Robin B (@MrAnyx)*
+*Author : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

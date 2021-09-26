@@ -17,4 +17,4 @@ Ainsi, en appliquant ce principe, il sera bien plus simple, en tant que dévelop
 - Réutiliser les classes et les fonctions,
 - Tester les classes et les fonctions, car il y aura moins de cas à prendre en compte.
 
-*Auteur : Robin B (@MrAnyx)*
+*Auteur : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

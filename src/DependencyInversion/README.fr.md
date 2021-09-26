@@ -10,4 +10,4 @@ Ce principe permet donc de :
 - Rendre le code plus flexible,
 - Faciliter l'évolution du projet.
 
-*Auteur : Robin B (@MrAnyx)*
+*Auteur : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

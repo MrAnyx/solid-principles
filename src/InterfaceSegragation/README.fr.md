@@ -19,4 +19,4 @@ Appliquer ce principe permet donc de :
 - Avoir des classes concises, sans superflu et qui ont un objectif précis,
 - Réduire l'apparition de bug en cas de méthode non implémenté
 
-*Auteur : Robin B (@MrAnyx)*
+*Auteur : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

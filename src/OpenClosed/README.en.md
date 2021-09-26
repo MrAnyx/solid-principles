@@ -13,4 +13,4 @@ Thus, the main advantages of this principle are:
 - To facilitate the evolution of a class,
 - Make the code more flexible in general.
 
-*Author : Robin B (@MrAnyx)*
+*Author : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

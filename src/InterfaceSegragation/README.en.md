@@ -17,4 +17,4 @@ Applying this principle allows to:
 - Have concise classes, without superfluous and which have a precise objective,
 - Reduce the occurrence of bugs in case of non-implemented methods
 
-*Author : Robin B (@MrAnyx)*
+*Author : Robin B ([@MrAnyx](https://github.com/MrAnyx))*

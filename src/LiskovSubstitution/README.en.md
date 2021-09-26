@@ -16,4 +16,4 @@ By applying this type of principle, it will then be possible to:
 - Reduce the probability of bugs,
 - Make our code more logical.
 
-*Author : Robin B (@MrAnyx)*
+*Author : Robin B ([@MrAnyx](https://github.com/MrAnyx))*
